@@ -1,25 +1,79 @@
 # Student Loans in Bankruptcy: Can You Discharge Them? (2026 Guide)
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Can you discharge student loans in bankruptcy? Learn about the Brunner test, undue hardship standard, and recent changes. Step-by-step 202...
+> Student loan bankruptcy and bankruptcy student loans: can you discharge student loans in bankruptcy? Adversary proceeding for student loans
 
 ## About
 bankruptcystudentloans.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- How to File an Adversary Proceeding for Student Loan Discharge (2026) - Student Loans: https://bankruptcystudentloans.org/adversary-proceeding.html
-- The Brunner Test: How Courts Decide Student Loan Discharge - Student Loans: https://bankruptcystudentloans.org/brunner-test.html
-- Student Loans in Chapter 13 Bankruptcy (2026): https://bankruptcystudentloans.org/chapter-13-student-loans.html
+- Filing a Student Loan Adversary Proceeding [2026]: 11 USC 523(a)(8) and DOJ/ED 2022 Attestation: https://bankruptcystudentloans.org/adversary-proceeding.html
+- Brunner Test for Student Loan Discharge [2026]: Three Prongs and Circuit Splits: https://bankruptcystudentloans.org/brunner-test.html
+- Student Loans in Chapter 13 [2026]: Partial Discharge, Plan Treatment, and 1322(b)(5) Cure: https://bankruptcystudentloans.org/chapter-13-student-loans.html
 - Student Loans & Bankruptcy FAQ - Discharge and Hardship Options: https://bankruptcystudentloans.org/frequently-asked-questions.html
-- Income-Driven Repayment vs Bankruptcy for Student Loans (2026): https://bankruptcystudentloans.org/income-driven-repayment.html
+- IDR Plans vs Bankruptcy [2026]: SAVE, PAYE, IBR Compared with Section 523(a)(8) Discharge: https://bankruptcystudentloans.org/income-driven-repayment.html
 - Student Loans in Bankruptcy: Can You Discharge Them? (2026 Guide): https://bankruptcystudentloans.org/
-- Parent PLUS Loans in Bankruptcy - Discharge Options (2026) - Student Loans: https://bankruptcystudentloans.org/parent-plus.html
-- Discharging Private Student Loans in Bankruptcy: https://bankruptcystudentloans.org/private-loans.html
-- Student Loan Bankruptcy Changes 2024-2026 - Student Loans: https://bankruptcystudentloans.org/recent-changes.html
+- Parent PLUS Loans in Bankruptcy [2026]: 523(a)(8) Discharge and Death/Disability Discharge Compared: https://bankruptcystudentloans.org/parent-plus.html
+- Private Student Loans in Bankruptcy [2026]: McDaniel and Crocker on Qualified Educational Loans: https://bankruptcystudentloans.org/private-loans.html
+- Recent Student Loan Bankruptcy Changes [2026]: DOJ/ED Attestation, SAVE Plan, and Circuit Updates: https://bankruptcystudentloans.org/recent-changes.html
 - Student Loan Repayment vs Bankruptcy Discharge - Comparison: https://bankruptcystudentloans.org/repayment-vs-discharge.html
 - Student Loan Discharge in Bankruptcy: Brunner Test and New DOJ Guidance [2026] - Student Loans: https://bankruptcystudentloans.org/student-loan-discharge.html
-- Undue Hardship Standard for Student Loan Discharge (2026) - Student Loans: https://bankruptcystudentloans.org/undue-hardship.html
+- Undue Hardship Standard [2026]: Brunner, Totality of Circumstances, and DOJ/ED Attestation: https://bankruptcystudentloans.org/undue-hardship.html
 - Privacy Policy: https://bankruptcystudentloans.org/privacy.html
+- About bankruptcystudentloans.org: https://bankruptcystudentloans.org/about.html
+- Borrower Defense, Sweet v. McMahon, and TPD - Student Loan Discharge Pathways That Aren't Bankruptcy: https://bankruptcystudentloans.org/borrower-defense.html
+- Student Loan Bankruptcy in Alabama [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/alabama.html
+- Student Loan Bankruptcy in Alaska [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/alaska.html
+- Student Loan Bankruptcy in Arizona [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/arizona.html
+- Student Loan Bankruptcy in Arkansas [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/arkansas.html
+- Student Loan Bankruptcy in California [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/california.html
+- Student Loan Bankruptcy in Colorado [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/colorado.html
+- Student Loan Bankruptcy in Connecticut [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/connecticut.html
+- Student Loan Bankruptcy in Delaware [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/delaware.html
+- Student Loan Bankruptcy in District of Columbia [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/district-of-columbia.html
+- Student Loan Bankruptcy in Florida [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/florida.html
+- Student Loan Bankruptcy in Georgia [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/georgia.html
+- Student Loan Bankruptcy in Hawaii [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/hawaii.html
+- Student Loan Bankruptcy in Idaho [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/idaho.html
+- Student Loan Bankruptcy in Illinois [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/illinois.html
+- Student Loan Bankruptcy by State by State: https://bankruptcystudentloans.org/states/
+- Student Loan Bankruptcy in Indiana [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/indiana.html
+- Student Loan Bankruptcy in Iowa [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/iowa.html
+- Student Loan Bankruptcy in Kansas [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/kansas.html
+- Student Loan Bankruptcy in Kentucky [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/kentucky.html
+- Student Loan Bankruptcy in Louisiana [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/louisiana.html
+- Student Loan Bankruptcy in Maine [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/maine.html
+- Student Loan Bankruptcy in Maryland [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/maryland.html
+- Student Loan Bankruptcy in Massachusetts [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/massachusetts.html
+- Student Loan Bankruptcy in Michigan [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/michigan.html
+- Student Loan Bankruptcy in Minnesota [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/minnesota.html
+- Student Loan Bankruptcy in Mississippi [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/mississippi.html
+- Student Loan Bankruptcy in Missouri [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/missouri.html
+- Student Loan Bankruptcy in Montana [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/montana.html
+- Student Loan Bankruptcy in Nebraska [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/nebraska.html
+- Student Loan Bankruptcy in Nevada [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/nevada.html
+- Student Loan Bankruptcy in New Hampshire [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/new-hampshire.html
+- Student Loan Bankruptcy in New Jersey [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/new-jersey.html
+- Student Loan Bankruptcy in New Mexico [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/new-mexico.html
+- Student Loan Bankruptcy in New York [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/new-york.html
+- Student Loan Bankruptcy in North Carolina [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/north-carolina.html
+- Student Loan Bankruptcy in North Dakota [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/north-dakota.html
+- Student Loan Bankruptcy in Ohio [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/ohio.html
+- Student Loan Bankruptcy in Oklahoma [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/oklahoma.html
+- Student Loan Bankruptcy in Oregon [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/oregon.html
+- Student Loan Bankruptcy in Pennsylvania [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/pennsylvania.html
+- Student Loan Bankruptcy in Rhode Island [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/rhode-island.html
+- Student Loan Bankruptcy in South Carolina [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/south-carolina.html
+- Student Loan Bankruptcy in South Dakota [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/south-dakota.html
+- Student Loan Bankruptcy in Tennessee [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/tennessee.html
+- Student Loan Bankruptcy in Texas [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/texas.html
+- Student Loan Bankruptcy in Utah [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/utah.html
+- Student Loan Bankruptcy in Vermont [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/vermont.html
+- Student Loan Bankruptcy in Virginia [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/virginia.html
+- Student Loan Bankruptcy in Washington [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/washington.html
+- Student Loan Bankruptcy in West Virginia [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/west-virginia.html
+- Student Loan Bankruptcy in Wisconsin [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/wisconsin.html
+- Student Loan Bankruptcy in Wyoming [2026]: Brunner, TPD, and IDR: https://bankruptcystudentloans.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

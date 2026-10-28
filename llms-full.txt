@@ -1,6 +1,6 @@
 # bankruptcystudentloans.org -- Full Content
 
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 This file contains the full text content of all pages on bankruptcystudentloans.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -378,7 +378,7 @@ Good faith does not require perfection. It means you tried. You applied for inco
 
 Actions That Demonstrate Good Faith
 
-Applied for income-driven repayment (IBR, PAYE, REPAYE, or SAVE)
+Applied for income-driven repayment (IBR or the Repayment Assistance Plan today; earlier, PAYE, REPAYE, or SAVE)
 
 Made payments when able - even small or sporadic payments count
 
@@ -474,7 +474,7 @@ Common Reasons Brunner Claims Are Denied
 
 Understanding why claims fail is just as important as knowing the test. The most common reasons for denial include:
 
-Never applied for income-driven repayment. Courts view this as a failure of good faith. If you have not at least applied for IBR, PAYE, or SAVE, you are unlikely to pass prong three. Courts reason that if the government offers a plan with payments based on your income, you should at least try it before seeking discharge.
+Never applied for income-driven repayment. Courts view this as a failure of good faith. If you have not at least applied for an income-driven plan (today, IBR or the Repayment Assistance Plan), you are unlikely to pass prong three. Courts reason that if the government offers a plan with payments based on your income, you should at least try it before seeking discharge.
 
 Debtor is young and healthy. Courts may find that a 30-year-old with no health issues and a college degree has earning potential that will eventually allow repayment, even if current income is low. This is where the persistence prong becomes difficult.
 
@@ -967,7 +967,7 @@ You can seek to discharge some or all of your student loans. The adversary proce
 
 Is income-driven repayment better than bankruptcy for student loans?
 
-Income-driven repayment (IDR) plans like SAVE, IBR, and ICR can reduce payments to as low as $0 per month based on income. IDR may be a better option if you do not meet the undue hardship standard. After 20-25 years of payments (10 years for PSLF), remaining balances are forgiven.
+Income-driven repayment (IDR) plans like IBR and the Repayment Assistance Plan can reduce payments to as low as $0 per month based on income. IDR may be a better option if you do not meet the undue hardship standard. After 20 to 30 years of payments, depending on the plan (10 years for PSLF), remaining balances are forgiven.
 
 How long does a student loan adversary proceeding take?
 
@@ -1039,7 +1039,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## IDR Plans vs Bankruptcy [2026]: SAVE, PAYE, IBR Compared with Section 523(a)(8) Discharge
+## IDR Plans vs Bankruptcy [2026]: RAP, IBR, PAYE Compared with Section 523(a)(8) Discharge
 Source: https://bankruptcystudentloans.org/income-driven-repayment.html
 
 Skip to main content
@@ -1066,7 +1066,7 @@ Home›Student Loans in Bankruptcy›Income-Driven Repaymentvs Bankruptcy
 
 Understanding Income-Driven Repayment
 
-Income-driven repayment (IDR) plans cap your monthly federal student loan payment at a percentage of your discretionary income. After 20 to 25 years of qualifying payments, the remaining balance is forgiven. There are several IDR plans available, each with different payment formulas, eligibility rules, and forgiveness timelines.
+Income-driven repayment (IDR) plans cap your monthly federal student loan payment at a percentage of your discretionary income. After 20 to 30 years of qualifying payments, depending on the plan, the remaining balance is forgiven. There are several IDR plans available, each with different payment formulas, eligibility rules, and forgiveness timelines.
 
 IDR is only available for federal student loans. Private student loans from banks, credit unions, and other private lenders are not eligible for any income-driven plan. If you carry a mix of federal and private student loan debt, IDR addresses only the federal portion. The only path for discharging private loans is through an adversary proceeding in bankruptcy court.
 
@@ -1074,15 +1074,17 @@ IDR Plan Comparison
 
 PlanPaymentForgivenessEligibility
 
-SAVE (Saving on a Valuable Education)5-10% of discretionary income20-25 yearsAny Direct Loan borrower
+RAP (Repayment Assistance Plan)1-10% of adjusted gross income30 yearsAny Direct Loan borrower with eligible loans (available July 1, 2026)
 
-IBR (Income-Based Repayment)10-15% of discretionary income20-25 yearsMust have partial financial hardship
+IBR (Income-Based Repayment)10-15% of discretionary income20-25 yearsAny Direct Loan borrower with eligible loans
 
-PAYE (Pay As You Earn)10% of discretionary income20 yearsNew borrowers after Oct 2007
+PAYE (Pay As You Earn)10% of discretionary income20 yearsOnly borrowers already on PAYE on July 1, 2024; ends June 30, 2028
 
-ICR (Income-Contingent Repayment)20% of discretionary income25 yearsAny Direct Loan borrower (including PLUS via consolidation)
+ICR (Income-Contingent Repayment)Lesser of 20% of discretionary income or a 12-year fixed amount25 yearsLimited groups, including consolidated Parent PLUS loans; ends June 30, 2028
 
-The SAVE plan, which replaced REPAYE, offers the lowest payments for most borrowers. It calculates discretionary income based on 225% of the federal poverty level rather than 150%, which means more of your income is shielded from the payment calculation. For undergraduate-only borrowers, payments are just 5% of discretionary income - potentially cutting monthly payments in half compared to older IDR plans.
+SAVEn/an/aEnded by court order on March 10, 2026
+
+The SAVE plan, which replaced REPAYE, was ended by court order on March 10, 2026, and SAVE borrowers are being moved to other plans. The Repayment Assistance Plan, available July 1, 2026, bases payments on 1% to 10% of adjusted gross income and forgives the remaining balance after 30 years (34 CFR 685.209). Plans and eligibility are listed in the table above; check StudentAid.gov for the plans open to you.
 
 Head-to-Head Comparison
 
@@ -1415,7 +1417,7 @@ Undue hardship required?YesYes (since BAPCPA 2005)
 
 DOJ attestation process?Yes - new frameworkNo - lender decides whether to contest
 
-Income-driven repayment available?Yes (IBR, PAYE, SAVE)No (lender discretion only)
+Income-driven repayment available?Yes (IBR, RAP, and others)No (lender discretion only)
 
 Public Service Loan Forgiveness?Yes (after 10 years)No
 
@@ -1455,7 +1457,7 @@ Alternatives to Discharge
 
 If discharge through bankruptcy is not feasible or desirable, consider these alternatives for federal student loans:
 
-Income-Driven Repayment (IDR): Plans like SAVE, IBR, and PAYE cap monthly payments at a percentage of discretionary income. Payments can be as low as $0/month. Remaining balance is forgiven after 20-25 years.
+Income-Driven Repayment (IDR): Plans like IBR and the Repayment Assistance Plan base monthly payments on income. IBR payments can be as low as $0/month. Remaining balance is forgiven after 20 to 30 years, depending on the plan.
 
 Public Service Loan Forgiveness (PSLF): 120 qualifying payments while working for a government or nonprofit employer. Remaining balance forgiven tax-free.
 
@@ -1813,7 +1815,7 @@ Before pursuing bankruptcy, it is important to understand your repayment options
 
 Income-Contingent Repayment (ICR): The only IDR plan directly available for Parent PLUS loans. Payments are capped at 20% of discretionary income, with forgiveness after 25 years of qualifying payments. ICR payments can still be substantial for middle-income parents.
 
-Consolidation pathway: You can consolidate your PLUS loan into a Direct Consolidation Loan, which opens access to other IDR plans like IBR and the SAVE plan. However, consolidation resets your payment count for forgiveness purposes, meaning you start the 20-25 year clock over again.
+Consolidation pathway: Consolidating a Parent PLUS loan into a Direct Consolidation Loan opens income-driven repayment, but a consolidation loan made on or after July 1, 2025 that repaid a Parent PLUS loan may use only ICR, which ends June 30, 2028 (34 CFR 685.209(c)(5)). Qualifying payments made before consolidation are credited to the new loan as a weighted average (34 CFR 685.209(k)(4)(vi)).
 
 Public Service Loan Forgiveness (PSLF): If you work for a qualifying public service employer (government, nonprofit, tribal organization), PSLF provides tax-free forgiveness after 10 years (120 qualifying payments). This requires consolidation into a Direct Consolidation Loan and enrollment in an IDR plan. PSLF is one of the most powerful tools available to PLUS borrowers who work in public service.
 
@@ -2115,7 +2117,7 @@ Wage garnishment, tax offset, Social Security offset
 Lawsuit and judgment required
 
 Income-driven repayment
-Available (IBR, PAYE, SAVE)
+Available (IBR, RAP, and others)
 Not available
 
 Typical interest rate
@@ -2401,7 +2403,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Recent Student Loan Bankruptcy Changes [2026]: DOJ/ED Attestation, SAVE Plan, and Circuit Updates
+## Recent Student Loan Bankruptcy Changes [2026]: DOJ/ED Attestation, End of SAVE, and Circuit Updates
 Source: https://bankruptcystudentloans.org/recent-changes.html
 
 Skip to main content
@@ -2478,6 +2480,8 @@ Nov 2022DOJ/DOE joint guidance issuedReplaces blanket opposition with merits-bas
 
 2023SAVE plan replaces REPAYELower IDR payments, shorter forgiveness for small balances
 
+2026Court order ends SAVE (March 10); Repayment Assistance Plan opens (July 1)SAVE borrowers must choose a new plan
+
 2023-2024FRESH START Act reintroducedWould eliminate hardship requirement for loans 10+ years old (not yet enacted)
 
 2024-2025Courts continue softening Brunner applicationMore partial and full discharges granted nationwide
@@ -2488,7 +2492,7 @@ What This Means for Borrowers in 2026
 
 If you are considering student loan discharge in 2026, you are in a better position than borrowers at any point in the previous three decades. The combination of the DOJ guidance, evolving case law, and growing judicial criticism of rigid Brunner applications has created a window of opportunity.
 
-However, the landscape remains uncertain. The DOJ guidance is a policy directive, not a statute - it could be changed by a future administration. The FRESH START Act has bipartisan support but has not been enacted. And the SAVE plan faces ongoing legal challenges that could affect its availability.
+However, the landscape remains uncertain. The DOJ guidance is a policy directive, not a statute - it could be changed by a future administration. The FRESH START Act has bipartisan support but has not been enacted. And a court order ended the SAVE plan on March 10, 2026, moving its borrowers to other plans.
 
 The most important takeaway: do not assume your student loans cannot be discharged. If you are struggling with student loan debt and are considering bankruptcy, consult with an attorney experienced in student loan adversary proceedings. The odds of success are better than they have been in decades.
 
@@ -2647,7 +2651,7 @@ IDR (Income-Driven Repayment) vs Bankruptcy Discharge
 
 Income-driven repayment plans cap your monthly payment based on income and family size. After 20-25 years of payments, the remaining balance is forgiven. Bankruptcy discharge eliminates the debt entirely through an adversary proceeding.
 
-FactorIDR Plans (SAVE/IBR/PAYE/ICR)Bankruptcy Discharge
+FactorIDR Plans (RAP/IBR/PAYE/ICR)Bankruptcy Discharge
 
 Timeline to Relief20-25 years of qualifying paymentsAdversary proceeding resolved in months
 
@@ -3664,7 +3668,7 @@ If you have federal loans, financial hardship, no misconduct, no disability
 
 Document hardship - last 2 tax returns, pay stubs, household expenses vs. income.
 
-Confirm you have attempted IDR enrollment (SAVE, PAYE, or successor plan) as evidence of good-faith repayment attempt.
+Confirm you have attempted IDR enrollment (IBR, the Repayment Assistance Plan, or an earlier plan such as SAVE or PAYE) as evidence of good-faith repayment attempt.
 
 Consult a bankruptcy attorney about filing a Chapter 7 or Chapter 13 with a student-loan adversary proceeding under the 2022 DOJ Guidance standard.
 
@@ -3704,7 +3708,7 @@ You can re-open the case and file a new adversary under current law, but the fac
 
 Will discharged student loans be treated as taxable income?
 
-Not through 2025 (federal). The American Rescue Plan Act of 2021 excluded most student-loan-cancellation events from federal gross income through December 31, 2025. TPD discharges were already excluded permanently under IRC § 108(f)(5). Private loan discharges through bankruptcy are excluded under the bankruptcy insolvency rule. State tax treatment varies - a few states do not conform to the federal exclusion.
+Not for discharges through December 31, 2025 (federal): the American Rescue Plan Act of 2021 excluded most student-loan-cancellation events from federal gross income through that date, and the exclusion was not extended. For later discharges, check current IRS guidance. TPD discharges are excluded under IRC § 108(f)(5). Private loan discharges through bankruptcy are excluded under the bankruptcy insolvency rule. State tax treatment varies - a few states do not conform to the federal exclusion.
 
 Do any of these pathways affect my credit report?
 
@@ -3827,19 +3831,21 @@ TPD is the first path to check for any Alabama debtor with a disability. Bankrup
 
 Alabama Income-Driven Repayment Baseline
 
-Before filing an adversary proceeding, most courts in the Eleventh Circuit require the debtor to show they have attempted income-driven repayment (IDR). Alabama median household income is below national median; SAVE/PAYE payments often close to $0 for many debtors.
+Before filing an adversary proceeding, most courts in the Eleventh Circuit require the debtor to show they have attempted income-driven repayment (IDR).
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Alabama debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Alabama debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Alabama
 
@@ -3996,15 +4002,17 @@ Before filing an adversary proceeding, most courts in the Ninth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Alaska debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Alaska debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Alaska
 
@@ -4147,15 +4155,17 @@ Before filing an adversary proceeding, most courts in the Ninth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Arizona debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Arizona debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Arizona
 
@@ -4298,15 +4308,17 @@ Before filing an adversary proceeding, most courts in the Eighth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Arkansas debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Arkansas debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Arkansas
 
@@ -4459,19 +4471,21 @@ TPD is the first path to check for any California debtor with a disability. Bank
 
 California Income-Driven Repayment Baseline
 
-Before filing an adversary proceeding, most courts in the Ninth Circuit require the debtor to show they have attempted income-driven repayment (IDR). COL allowance under SAVE is high in CA urban areas; SF/LA debtors get meaningful expense offset.
+Before filing an adversary proceeding, most courts in the Ninth Circuit require the debtor to show they have attempted income-driven repayment (IDR).
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A California debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A California debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in California
 
@@ -4628,15 +4642,17 @@ Before filing an adversary proceeding, most courts in the Tenth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Colorado debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Colorado debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Colorado
 
@@ -4793,15 +4809,17 @@ Before filing an adversary proceeding, most courts in the Second Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Connecticut debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Connecticut debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Connecticut
 
@@ -4958,15 +4976,17 @@ Before filing an adversary proceeding, most courts in the Third Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Delaware debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Delaware debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Delaware
 
@@ -5109,15 +5129,17 @@ Before filing an adversary proceeding, most courts in the D.C. Circuit require t
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A District of Columbia debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A District of Columbia debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in District of Columbia
 
@@ -5260,15 +5282,17 @@ Before filing an adversary proceeding, most courts in the Eleventh Circuit requi
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Florida debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Florida debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Florida
 
@@ -5425,15 +5449,17 @@ Before filing an adversary proceeding, most courts in the Eleventh Circuit requi
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Georgia debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Georgia debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Georgia
 
@@ -5590,15 +5616,17 @@ Before filing an adversary proceeding, most courts in the Ninth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Hawaii debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Hawaii debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Hawaii
 
@@ -5741,15 +5769,17 @@ Before filing an adversary proceeding, most courts in the Ninth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Idaho debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Idaho debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Idaho
 
@@ -5892,15 +5922,17 @@ Before filing an adversary proceeding, most courts in the Seventh Circuit requir
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Illinois debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Illinois debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Illinois
 
@@ -6088,15 +6120,17 @@ Before filing an adversary proceeding, most courts in the Seventh Circuit requir
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Indiana debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Indiana debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Indiana
 
@@ -6253,15 +6287,17 @@ Before filing an adversary proceeding, most courts in the Eighth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Iowa debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Iowa debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Iowa
 
@@ -6404,15 +6440,17 @@ Before filing an adversary proceeding, most courts in the Tenth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Kansas debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Kansas debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Kansas
 
@@ -6565,19 +6603,21 @@ TPD is the first path to check for any Kentucky debtor with a disability. Bankru
 
 Kentucky Income-Driven Repayment Baseline
 
-Before filing an adversary proceeding, most courts in the Sixth Circuit require the debtor to show they have attempted income-driven repayment (IDR). Low median income; SAVE plan covers many KY debtors at $0/month.
+Before filing an adversary proceeding, most courts in the Sixth Circuit require the debtor to show they have attempted income-driven repayment (IDR).
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Kentucky debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Kentucky debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Kentucky
 
@@ -6734,15 +6774,17 @@ Before filing an adversary proceeding, most courts in the Fifth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Louisiana debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Louisiana debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Louisiana
 
@@ -6885,15 +6927,17 @@ Before filing an adversary proceeding, most courts in the First Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Maine debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Maine debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Maine
 
@@ -7036,15 +7080,17 @@ Before filing an adversary proceeding, most courts in the Fourth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Maryland debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Maryland debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Maryland
 
@@ -7201,15 +7247,17 @@ Before filing an adversary proceeding, most courts in the First Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Massachusetts debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Massachusetts debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Massachusetts
 
@@ -7366,15 +7414,17 @@ Before filing an adversary proceeding, most courts in the Sixth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Michigan debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Michigan debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Michigan
 
@@ -7531,15 +7581,17 @@ Before filing an adversary proceeding, most courts in the Eighth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Minnesota debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Minnesota debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Minnesota
 
@@ -7696,15 +7748,17 @@ Before filing an adversary proceeding, most courts in the Fifth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Mississippi debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Mississippi debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Mississippi
 
@@ -7847,15 +7901,17 @@ Before filing an adversary proceeding, most courts in the Eighth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Missouri debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Missouri debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Missouri
 
@@ -8012,15 +8068,17 @@ Before filing an adversary proceeding, most courts in the Ninth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Montana debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Montana debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Montana
 
@@ -8163,15 +8221,17 @@ Before filing an adversary proceeding, most courts in the Eighth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Nebraska debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Nebraska debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Nebraska
 
@@ -8328,15 +8388,17 @@ Before filing an adversary proceeding, most courts in the Ninth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Nevada debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Nevada debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Nevada
 
@@ -8493,15 +8555,17 @@ Before filing an adversary proceeding, most courts in the First Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A New Hampshire debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A New Hampshire debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in New Hampshire
 
@@ -8644,15 +8708,17 @@ Before filing an adversary proceeding, most courts in the Third Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A New Jersey debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A New Jersey debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in New Jersey
 
@@ -8809,15 +8875,17 @@ Before filing an adversary proceeding, most courts in the Tenth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A New Mexico debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A New Mexico debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in New Mexico
 
@@ -8960,15 +9028,17 @@ Before filing an adversary proceeding, most courts in the Second Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A New York debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A New York debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in New York
 
@@ -9125,15 +9195,17 @@ Before filing an adversary proceeding, most courts in the Fourth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A North Carolina debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A North Carolina debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in North Carolina
 
@@ -9290,15 +9362,17 @@ Before filing an adversary proceeding, most courts in the Eighth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A North Dakota debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A North Dakota debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in North Dakota
 
@@ -9441,15 +9515,17 @@ Before filing an adversary proceeding, most courts in the Sixth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Ohio debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Ohio debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Ohio
 
@@ -9606,15 +9682,17 @@ Before filing an adversary proceeding, most courts in the Tenth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Oklahoma debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Oklahoma debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Oklahoma
 
@@ -9771,15 +9849,17 @@ Before filing an adversary proceeding, most courts in the Ninth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Oregon debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Oregon debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Oregon
 
@@ -9922,15 +10002,17 @@ Before filing an adversary proceeding, most courts in the Third Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Pennsylvania debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Pennsylvania debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Pennsylvania
 
@@ -10087,15 +10169,17 @@ Before filing an adversary proceeding, most courts in the First Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Rhode Island debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Rhode Island debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Rhode Island
 
@@ -10238,15 +10322,17 @@ Before filing an adversary proceeding, most courts in the Fourth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A South Carolina debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A South Carolina debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in South Carolina
 
@@ -10403,15 +10489,17 @@ Before filing an adversary proceeding, most courts in the Eighth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A South Dakota debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A South Dakota debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in South Dakota
 
@@ -10554,15 +10642,17 @@ Before filing an adversary proceeding, most courts in the Sixth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Tennessee debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Tennessee debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Tennessee
 
@@ -10719,15 +10809,17 @@ Before filing an adversary proceeding, most courts in the Fifth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Texas debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Texas debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Texas
 
@@ -10884,15 +10976,17 @@ Before filing an adversary proceeding, most courts in the Tenth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Utah debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Utah debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Utah
 
@@ -11035,15 +11129,17 @@ Before filing an adversary proceeding, most courts in the Second Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Vermont debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Vermont debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Vermont
 
@@ -11186,15 +11282,17 @@ Before filing an adversary proceeding, most courts in the Fourth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Virginia debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Virginia debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Virginia
 
@@ -11351,15 +11449,17 @@ Before filing an adversary proceeding, most courts in the Ninth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Washington debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Washington debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Washington
 
@@ -11502,15 +11602,17 @@ Before filing an adversary proceeding, most courts in the Fourth Circuit require
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A West Virginia debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A West Virginia debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in West Virginia
 
@@ -11667,15 +11769,17 @@ Before filing an adversary proceeding, most courts in the Seventh Circuit requir
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Wisconsin debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Wisconsin debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Wisconsin
 
@@ -11832,15 +11936,17 @@ Before filing an adversary proceeding, most courts in the Tenth Circuit require 
 
 Federal IDR plans available:
 
-SAVE (formerly REPAYE) - 5-10% of discretionary income; lowest monthly payments for most debtors.
-
-PAYE - 10% of discretionary income; 20-year forgiveness.
+RAP (Repayment Assistance Plan, available July 1, 2026) - 1% to 10% of adjusted gross income; 30-year forgiveness.
 
 IBR - 10-15% of discretionary income; 20-25 year forgiveness.
 
-ICR - 20% of discretionary income or 12-year standard, whichever less.
+PAYE - 10% of discretionary income; 20-year forgiveness; open only to borrowers already on PAYE on July 1, 2024, and ends June 30, 2028.
 
-A Wyoming debtor at poverty-line income typically has a $0 monthly IDR payment under SAVE. This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
+ICR - based on discretionary income; 25-year forgiveness; open only to limited groups, and ends June 30, 2028.
+
+SAVE (formerly REPAYE) - ended by court order on March 10, 2026.
+
+A Wyoming debtor at poverty-line income typically has a $0 monthly IDR payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). This is important for the Brunner good-faith prong: you must show you tried IDR, not that IDR was impossible.
 
 Private Student Loans in Wyoming
 
